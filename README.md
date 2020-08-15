@@ -17,7 +17,7 @@ please follow below steps to deployment:
 11. run celery beat locally `celery -A picha beat -l info`
 12. run celery worker locally `celery -A picha worker -l info`
 
-13. open url localhost:8080/   and see if everyminute new images getting rendered  
+13. open url [localhost:8080](http://localhost:8080)   and see if everyminute new images getting rendered  
 
 ### 2. Remote deamonizing services 
 click below to setup celery over server / remotely / daemonizely
