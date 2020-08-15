@@ -1,4 +1,5 @@
 # Asynchronous Tasks With Django and Celery
+## (remote daemonizing with supervisor)
 Table of Contents
 
 -   [Overview](https://realpython.com/asynchronous-tasks-with-django-and-celery/#overview)
