@@ -66,7 +66,6 @@ from .celery import app as celery_app
 ```
 Having done that, your  [project layout](https://realpython.com/python-application-layouts/)  should now look like:
 ```
-.
 demo
 ├── demo
 │   ├── asgi.py
